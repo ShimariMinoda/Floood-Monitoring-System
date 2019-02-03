@@ -1,0 +1,19 @@
+body{
+	margin:0;
+}
+
+#header{
+	height:10%;
+	background-color:red;
+}
+
+#sidepanel{
+	position:absolute;
+	width:400px;
+	height:80%;
+	background-color:gray;
+}
+
+#mapContainer{
+	height:90%;
+}
